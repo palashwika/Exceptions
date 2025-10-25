@@ -1,5 +1,5 @@
 #using a try and except
-try:
+try: #enables exception handling keywords
     number=int(input("Enter a number:"))
     print("The number entered is", number)
 #using value error
